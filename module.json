@@ -1,0 +1,8 @@
+{
+    "name": "DiscordWebhooks",
+    "version": "1.0.0",
+    "description": "Send Discord webhook notifications for CMS events",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\DiscordWebhooks\\Providers\\DiscordWebhooksProvider"],
+    "dependencies": {}
+}
